@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...
                                                              
                                                              
-        Anurag's GitHub stats  (https://github-readme-stats.vercel.app/api?username=codingWiz-rick)
+        ![] Anurag's GitHub stats  (https://github-readme-stats.vercel.app/api?username=codingWiz-rick)
                                                              (https://github.com/codingWiz-rick/github-readme-stats)
                                                              
