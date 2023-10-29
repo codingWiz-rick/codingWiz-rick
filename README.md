@@ -1,9 +1,7 @@
 ### Hi there 
 
-
 ![](https://komarev.com/ghpvc/?username=codingWiz-rick)
-My example:
-<img src=”https://komarev.com/ghpvc/?username=codingWiz-rick" alt=”codingWiz-rick” />
+
 
 **codingWiz-rick/codingWiz-rick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
